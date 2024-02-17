@@ -1,0 +1,1 @@
+#Helper functions and other globaly shared variables
